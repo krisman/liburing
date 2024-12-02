@@ -57,6 +57,7 @@ test_srcs := \
 	buf-ring-nommap.c \
 	buf-ring-put.c \
 	ce593a6c480a.c \
+	clone-exec.c \
 	close-opath.c \
 	connect.c \
 	connect-rep.c \
